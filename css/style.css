@@ -25,7 +25,8 @@ font-family: "Poppins", sans-serif;
 
 body {
   font-family: "Noto Sans", sans-serif;
-  background-color: red;
+  background-color: red !important;
+  color: red !important;
 }
 
 .b {
